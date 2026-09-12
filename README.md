@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Ashwani!
+# Hi there, I'm Ashwani!
 
 ### Aspiring Software Development Engineer (SDE)
 Passionate software developer focused on building scalable, resilient web applications and solving algorithmic challenges. Solid foundation in **Data Structures & Algorithms (Java)**, **Backend Development (Node.js, Express, PostgreSQL, WebSockets)**, and **Interactive Frontends**.
@@ -16,10 +16,10 @@ Passionate software developer focused on building scalable, resilient web applic
 
 ### Featured Projects
 
-#### [SkillXchange — Peer-to-Peer Skill Swapping Platform](https://github.com/Ashwani-mic/SkillXchange)
+#### [SkillXchange - Peer-to-Peer Skill Swapping Platform](https://github.com/Ashwani-mic/SkillXchange)
 > *Full-stack collaborative platform with AI semantic skill matching, WebRTC video calling, Socket.IO messaging, and PostgreSQL.*
 - **Architecture**: Modular Node.js & Express REST APIs integrated with relational PostgreSQL connection pooling.
-- **AI Matching Engine**: Embedded local ll-MiniLM-L6-v2 transformer model (via @xenova/transformers) calculating cosine similarity with database caching.
+- **AI Matching Engine**: Embedded local all-MiniLM-L6-v2 transformer model (via @xenova/transformers) calculating cosine similarity with database caching.
 - **Real-Time Collaboration**: Built bi-directional chat, WebRTC peer-to-peer video calling, and collaborative whiteboard/coding classroom via Socket.IO.
 - **Tech Stack**: Node.js, Express, PostgreSQL, Socket.IO, WebRTC, ONNX Embeddings, Docker
 
