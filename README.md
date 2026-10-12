@@ -8,9 +8,8 @@ Passionate software developer focused on building scalable, resilient web applic
 ### Technical Skills
 
 - **Languages**: Java, JavaScript (ES6+), SQL, HTML5, CSS3
-- **Backend & Real-Time**: Node.js, Express.js, PostgreSQL, Socket.IO, WebRTC, REST APIs
-- **AI & Machine Learning**: Transformers.js, ONNX Runtime, Google Gemini API
-- **Tools & DevOps**: Git, GitHub, Docker, Postman, VS Code
+- **Backend & Real-Time**: Node.js, Express.js, MySQL, REST APIs
+- **Tools & DevOps**: Git, GitHub, VS Code
 
 ---
 
